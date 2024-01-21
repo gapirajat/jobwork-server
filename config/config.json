@@ -1,26 +1,53 @@
 {
-  "development": {
-    "username": "postgres",
-    "password": "tZYW3FncnUeEEp8O",
-    "database": "postgres",
-    "host": "db.vribtpkclmbrfzhlqkru.supabase.co",
-    "port": 5432,
-    "dialect": "postgres"
-  },
-  "test": {
-    "username": "postgres",
-    "password": "tZYW3FncnUeEEp8O",
-    "database": "postgres",
-    "host": "db.vribtpkclmbrfzhlqkru.supabase.co",
-    "port": 5432,
-    "dialect": "postgres"
-  },
-  "production": {
-    "username": "postgres",
-    "password": "tZYW3FncnUeEEp8O",
-    "database": "postgres",
-    "host": "db.vribtpkclmbrfzhlqkru.supabase.co",
-    "port": 5432,
-    "dialect": "postgres"
+    "development": {
+      "username": "root",
+      "password": "eBd45613Adcda3E5E2g1B6e6E4hdB1dg",
+      "database": "railway",
+      "host": "roundhouse.proxy.rlwy.net",
+      "port": 51609,
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": "eBd45613Adcda3E5E2g1B6e6E4hdB1dg",
+      "database": "railway",
+      "host": "roundhouse.proxy.rlwy.net",
+      "port": 51609,
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "root",
+      "password": "eBd45613Adcda3E5E2g1B6e6E4hdB1dg",
+      "database": "railway",
+      "host": "roundhouse.proxy.rlwy.net",
+      "port": 51609,
+      "dialect": "mysql"
+    },
+    "_comment": {
+    "development": {
+      "username": "root",
+      "password": "eBd45613Adcda3E5E2g1B6e6E4hdB1dg",
+      "database": "railway",
+      "host": "roundhouse.proxy.rlwy.net",
+      "port": 51609,
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": "eBd45613Adcda3E5E2g1B6e6E4hdB1dg",
+      "database": "railway",
+      "host": "roundhouse.proxy.rlwy.net",
+      "port": 51609,
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "root",
+      "password": "eBd45613Adcda3E5E2g1B6e6E4hdB1dg",
+      "database": "railway",
+      "host": "roundhouse.proxy.rlwy.net",
+      "port": 51609,
+      "dialect": "mysql"
+    }
   }
-}
+  }
+  
